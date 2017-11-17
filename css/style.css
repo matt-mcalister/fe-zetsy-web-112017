@@ -22,3 +22,9 @@ body {
 .title, #subheader {
 	color: rgb(152,173,166);
 }
+
+h1 {
+    font-size: 5em;
+    font-weight: normal;
+    font-family: 'Baskerville', serif;
+}
