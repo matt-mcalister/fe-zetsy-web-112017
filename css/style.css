@@ -40,7 +40,7 @@ img {
 	padding: 1px;
 }
 
-img[class="image"] {
+img[#image] {
 	border: 5px #ccc solid;
 	padding: 1px;
 }
